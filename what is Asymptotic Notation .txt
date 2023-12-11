@@ -1,0 +1,9 @@
+what is Asymptotic Notation ?
+
+Asymptotic notation is a mathematical notation used to describe the limiting behavior of a function as its input approaches infinity. It is commonly used in the analysis of algorithms to express their efficiency and performance characteristics without being overly concerned with the details of constant factors and lower-order terms. The three main asymptotic notations are Big-O, Big-Theta, and Big-Omega.
+
+Big-O Notation (O)
+Big-Theta
+Big-Omega
+
+Asymptotic notation is particularly useful in algorithm analysis because it allows us to focus on the most significant factors affecting the performance of an algorithm while ignoring less significant details. When analyzing algorithms, the goal is often to understand how the running time or space requirements grow as the input size becomes very large, and asymptotic notation provides a concise and standard way to express these growth rates.
